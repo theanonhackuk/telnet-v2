@@ -1,0 +1,15 @@
+Thanks for downloading telnet cracker v2.0.1
+
+Updates:
+
+-Auto install
+-Auto execute
+-Fixed bugs of failed connecting (Requirments)
+
+Future updates:
+
+-Add a shortcut for terminals like (telnet-crack)
+
+How to run:
+
+perl script.pl yourlist.txt
